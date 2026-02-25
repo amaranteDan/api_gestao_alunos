@@ -1,0 +1,12 @@
+.venv
+.env
+.abacus.donotdelete
+__pycache__
+logs
+.vscode
+.idea
+docs
+.agent
+.cursor
+pytest.ini
+.pytest_cache
