@@ -270,7 +270,7 @@ Obter token de acesso JWT.
 
 **Credenciais de teste:**
 - Username: `admin`
-- Password: `root_admin`
+- Password: `*********`
 
 **Request:**
 ```bash
@@ -628,7 +628,7 @@ Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes
 
 ## 👥 Autores
 
-- **DeepAgent - Abacus.AI** - *Desenvolvimento e Refatoração*
+- **Daniel Amarante de Almeida** - *Desenvolvimento e Refatoração*
 
 ---
 
@@ -687,4 +687,4 @@ Para reportar vulnerabilidades de segurança, envie um email para security@escol
 
 ---
 
-**Desenvolvido com ❤️ usando FastAPI**
+**Desenvolvido com FastAPI**
