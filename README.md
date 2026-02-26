@@ -140,7 +140,7 @@ api_gestao_alunos/
 ### Passo 1: Clone o repositório
 
 ```bash
-git clone <url-do-repositorio>
+git clone https://github.com/amaranteDan/api_gestao_alunos.git
 cd api_gestao_alunos
 ```
 
